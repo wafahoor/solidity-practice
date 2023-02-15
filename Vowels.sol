@@ -3,7 +3,7 @@
 
           pragma solidity >=0.5.0 < 0.9.0;
 
-          contract LargestValue
+          contract Vowels
      {
 
   function vowels(string memory Muzukashii) public view returns(uint){
